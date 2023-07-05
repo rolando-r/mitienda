@@ -40,3 +40,8 @@
 /home/apolm01-023/Desktop/projectsNetCore/mitienda/API/obj/Debug/net7.0/API.pdb
 /home/apolm01-023/Desktop/projectsNetCore/mitienda/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /home/apolm01-023/Desktop/projectsNetCore/mitienda/API/obj/Debug/net7.0/ref/API.dll
+/home/apolm01-023/Desktop/projectsNetCore/mitienda/API/bin/Debug/net7.0/Humanizer.dll
+/home/apolm01-023/Desktop/projectsNetCore/mitienda/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/apolm01-023/Desktop/projectsNetCore/mitienda/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/apolm01-023/Desktop/projectsNetCore/mitienda/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/apolm01-023/Desktop/projectsNetCore/mitienda/API/bin/Debug/net7.0/System.CodeDom.dll
